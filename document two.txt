@@ -3,8 +3,6 @@
 <body>
 <p>Paragraph one.</p>
 <p>Paragraph two.</p>
-
-in test branch
 </body>
 </html>
 
